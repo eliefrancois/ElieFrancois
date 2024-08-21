@@ -2,13 +2,17 @@
 
 ### Hello, world 👋
 
-I'm a Software Engineer based out in Maitland, Florida. I primarily use JavaScript, TypeScript, CSS, and a little bit of SQL through work and projects. As of right now, the framework I've been using is React–along with TailwindCSS, to make applications look inviting.
+I'm a Software Engineer based out of New York. I primarily use JavaScript, TypeScript, CSS, and a little bit of SQL through work and projects. As of right now, the framework I've been using is NextJS with TailwindCSS, to make applications look inviting. I am currently working throgh learning Expo so expect to see a few projects pop up with those beign used
 
 I've always had an appreciation for web development and the endless amount of creativity you can put into it. Soon this passion grew into developing and designing applications. It's always been a space for me to explore that creativity while still being technical.
 
+Over the past two years I have been working towards completing my Masters Degree from New York University I am studying Management and Systems with a concentration in Strategy and Leadership. I look forward to post graduation to pursue further blending my creative endeavours with my technical accumen. If you'd like to chat. The best ways to reach me can be found below. Happy Coding!
+
 ## Stats
 
-[![Elies's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliefrancois&theme=dark)](https://github.com/eliefrancois/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliefrancois&show_icons=true&locale=en&layout=compact&theme=dark" alt="eliefrancois" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliefrancois&show_icons=true&locale=en&theme=dark" alt="eliefrancois" /></p>
 
 ## Top Languages
 
@@ -40,4 +44,10 @@ Here are some ideas to get you started:
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/elie-f-1b0a4118a/details/experience/)
+
+
+[![Elies's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliefrancois&theme=dark)](https://github.com/eliefrancois/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliefrancois&theme=dark" alt="eliefrancois" /></p>
+
 -->
