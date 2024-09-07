@@ -24,7 +24,7 @@ Over the past two years I have been working towards completing my Masters Degree
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elie-f-1b0a4118a/details/experience/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elie-f-1b0a4118a/details/experience/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elie-f-1b0a4118a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elie-f-1b0a4118a/details/experience/" height="30" width="40" /></a>
 </p>
 
 <!--
